@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_ginkgo.mk
+    $(LOCAL_DIR)/exthm_ginkgo.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_ginkgo-user \
-    aosp_ginkgo-userdebug \
-    aosp_ginkgo-eng
+    exthm_ginkgo-user \
+    exthm_ginkgo-userdebug \
+    exthm_ginkgo-eng
